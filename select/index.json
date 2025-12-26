@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Girls be ambitious!",
+  "base_artist": "舞花 from BEST FRIENDS！",
+  "createdAt": "2025-12-26T05:59:00.671557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/01_Girls,_Be_Ambitious._Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/02_Girls,_Be_Ambitious._戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GIRLS, BE AMBITIOUS! (album mix)",
+      "artist": "Kiss Destination",
+      "has_synced": true,
+      "path": "select/03_GIRLS,_BE_AMBITIOUS!_(album_mix)_Kiss_Destination.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious!",
+      "artist": "Kiss Destination",
+      "has_synced": true,
+      "path": "select/04_Girls,_Be_Ambitious!_Kiss_Destination.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Girls Be Ambitious!",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/05_Girls_Be_Ambitious!_Kara.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "Tomatsu Haruka",
+      "has_synced": true,
+      "path": "select/06_Girls,_Be_Ambitious._Tomatsu_Haruka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "girls be ambitious",
+      "artist": "from best friends",
+      "has_synced": false,
+      "path": "select/07_girls_be_ambitious_from_best_friends.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/08_Girls,_Be_Ambitious._Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Girls Be Ambitious !",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/09_Girls_Be_Ambitious_!_KARA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girls Be Ambitious ! (Instrumental)",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/10_Girls_Be_Ambitious_!_(Instrumental)_KARA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GIRLS BE AMBITIOUS",
+      "artist": "Juice=Juice",
+      "has_synced": true,
+      "path": "select/11_GIRLS_BE_AMBITIOUS_Juice=Juice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girls be ambitious",
+      "artist": "ブラック・スワン(CV:Anna from FAKY)",
+      "has_synced": true,
+      "path": "select/12_Girls_be_ambitious_ブラック・スワン(CV_Anna_from_FAKY).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "Tomatsu Haruka",
+      "has_synced": true,
+      "path": "select/13_Girls,_Be_Ambitious._Tomatsu_Haruka.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/14_Girls,_Be_Ambitious._Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/15_Girls,_Be_Ambitious._戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Girls, be ambitious! (Straight Run)",
+      "artist": "TRUE KISS DESTiNATiON",
+      "has_synced": false,
+      "path": "select/16_Girls,_be_ambitious!_(Straight_Run)_TRUE_KISS_DESTiNATiON.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girls Be Ambitious",
+      "artist": "BRIGHT",
+      "has_synced": true,
+      "path": "select/17_Girls_Be_Ambitious_BRIGHT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girls be ambitious!",
+      "artist": "舞花 from BEST FRIENDS!",
+      "has_synced": false,
+      "path": "select/pl_01_Girls_be_ambitious!_舞花_from_BEST_FRIENDS!.txt"
+    }
+  ]
+}
